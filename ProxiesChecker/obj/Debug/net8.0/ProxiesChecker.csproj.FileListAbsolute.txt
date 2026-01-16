@@ -1,0 +1,14 @@
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\bin\Debug\net8.0\ProxiesChecker.exe
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\bin\Debug\net8.0\ProxiesChecker.deps.json
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\bin\Debug\net8.0\ProxiesChecker.runtimeconfig.json
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\bin\Debug\net8.0\ProxiesChecker.dll
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\bin\Debug\net8.0\ProxiesChecker.pdb
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ProxiesChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ProxiesChecker.AssemblyInfoInputs.cache
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ProxiesChecker.AssemblyInfo.cs
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ProxiesChecker.csproj.CoreCompileInputs.cache
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ProxiesChecker.dll
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\refint\ProxiesChecker.dll
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ProxiesChecker.pdb
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ProxiesChecker.genruntimeconfig.cache
+C:\Users\GALVIN\Desktop\proxies checker\ProxiesChecker\ProxiesChecker\obj\Debug\net8.0\ref\ProxiesChecker.dll
