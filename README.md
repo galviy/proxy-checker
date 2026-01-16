@@ -8,7 +8,8 @@ Simple proxy checker built in c#
 - [ ] Socks (socks4 & socks5)
 - [x] HTTP Proxy
 
-![image](cool thing.png)
+![image]([cool thing.png](https://github.com/galviy/proxy-checker/blob/main/cool%20thing.png?raw=true))
+
 - Added some cool response time which can be used as an indicator of the proxy's speed. 
 
 # Modification
